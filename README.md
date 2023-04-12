@@ -11,7 +11,7 @@
         <img src="img/SSRS/SSRS_SoVuTaiNanTheoKhuVuc.png"/>
     + By Power BI:
         1. The number of casualties by weather conditions in 2015.
-        <img src="SoThuongVongTheoDieuKienThoiTietNam2015.png"/>
+        <img src="img/PowerBI/SoThuongVongTheoDieuKienThoiTietNam2015.png"/>
         2. Traffic Accidents Classified by year
-        <img src="TongSoVuTaiNanTheoNam.png" />
+        <img src="img/PowerBI/TongSoVuTaiNanTheoNam.png" />
 - Reference: https://www.youtube.com/watch?v=irm___pxX8I&t=313s&ab_channel=SoanTr%E1%BA%A7n Report PowerBI, Soan Tran
