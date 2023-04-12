@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Accident DW">
+  <ConnectionProperties>
+    <Extension>OLEDB-MD</Extension>
+    <ConnectString>Data Source=DESKTOP-5QVLS2S\ANHVAN;Initial Catalog=AccidentsInUK</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>48f7511f-e92f-4246-99f5-ccca20c8f6c1</DataSourceID>
+</RptDataSource>
